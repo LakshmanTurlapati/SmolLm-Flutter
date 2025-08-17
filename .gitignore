@@ -1,0 +1,233 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS related
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/ephemeral/
+/ios/Flutter/flutter_export_environment.sh
+/ios/ServiceDefinitions.json
+/ios/Runner/GeneratedPluginRegistrant.*
+
+# iOS Build artifacts
+/ios/build/
+/ios/Pods/
+/ios/.symlinks/
+/ios/Runner.xcworkspace/xcuserdata/
+/ios/Runner.xcodeproj/xcuserdata/
+/ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+
+# macOS
+/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Windows
+/windows/flutter/generated_plugin_registrant.cc
+/windows/flutter/generated_plugin_registrant.h
+
+# Linux
+/linux/flutter/generated_plugin_registrant.cc
+/linux/flutter/generated_plugin_registrant.h
+
+# Coverage
+coverage/
+
+# Symbols
+*.dSYM.zip
+*.dSYM
+
+# Web related
+/web/
+
+# Android related
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+/android/.gradle/
+/android/captures/
+/android/gradlew
+/android/gradlew.bat
+/android/local.properties
+/android/**/GeneratedPluginRegistrant.java
+/android/key.properties
+*.jks
+
+# Firebase
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+/ios/firebase_app_id_file.json
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.staging
+
+# API Keys and Secrets
+secrets.yaml
+secrets.json
+api_keys.dart
+config.dart
+
+# Private documentation and project notes
+CLAUDE.md
+.claude/
+*.private.md
+NOTES.md
+DEVELOPMENT.md
+TODO.md
+
+# Model files (large binary files)
+assets/models/*.gguf
+assets/models/*.bin
+assets/models/*.safetensors
+*.model
+*.ggml
+*.gguf
+
+# Large media files (now using YouTube for demo instead of local files)
+*.mov
+*.mp4
+*.avi
+
+# Log files
+logs/
+crash-reports/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*#
+.#*
+
+# Package manager files (if using npm/yarn)
+node_modules/
+yarn.lock
+package-lock.json
+
+# Local development
+.local/
+.cache/
+.storage/
+
+# Test coverage reports
+coverage/
+lcov.info
+coverage.xml
+
+# Performance profiling
+*.trace
+*.timeline
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.gr.dart
+*.config.dart
+
+# Analysis files
+.analysis_options_override.yaml
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.backup
+*.bak
+
+# Archive files
+*.tar.gz
+*.zip
+*.7z
+
+# IDE workspace files
+*.code-workspace
+
+# Xcode related (additional)
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
