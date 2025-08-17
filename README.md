@@ -138,10 +138,10 @@ xcode-select --install
 ### Live Demo
 
 <div align="center">
-  <a href="https://youtu.be/9IY9STJCExo" target="_blank">
-    <img src="https://img.youtube.com/vi/9IY9STJCExo/maxresdefault.jpg" alt="SmolLM Flutter Demo - On-device AI Chat" width="500">
+  <a href="https://youtu.be/OylBlCQNckk" target="_blank">
+    <img src="https://img.youtube.com/vi/OylBlCQNckk/maxresdefault.jpg" alt="SmolLM Flutter Demo - On-device AI Chat" width="500">
   </a>
-  <p><em>🎥 <strong><a href="https://youtu.be/9IY9STJCExo">Watch Demo</a></strong> - Real-time demonstration of on-device SmolLM2-360M inference with streaming responses</em></p>
+  <p><em>🎥 <strong><a href="https://youtu.be/OylBlCQNckk">Watch Demo</a></strong> - Real-time demonstration of on-device SmolLM2-360M inference with streaming responses</em></p>
 </div>
 
 ### First Launch Behavior
