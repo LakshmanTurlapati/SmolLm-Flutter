@@ -141,7 +141,7 @@ xcode-select --install
   <a href="https://youtu.be/OylBlCQNckk" target="_blank">
     <img src="https://img.youtube.com/vi/OylBlCQNckk/maxresdefault.jpg" alt="SmolLM Flutter Demo - On-device AI Chat" width="500">
   </a>
-  <p><em>🎥 <strong><a href="https://youtu.be/OylBlCQNckk">Watch Demo</a></strong> - Real-time demonstration of on-device SmolLM2-360M inference with streaming responses</em></p>
+  <p><em><strong><a href="https://youtu.be/OylBlCQNckk">Watch Demo</a></strong> - Real-time demonstration of on-device SmolLM2-360M inference with streaming responses</em></p>
 </div>
 
 ### First Launch Behavior
@@ -182,10 +182,10 @@ sequenceDiagram
 
 | Achievement | Status | Details |
 |-------------|---------|---------|
-| **Integration** | ✅ | Working fllama + SmolLM2-360M integration |
-| **Real-time Inference** | ✅ | Streaming token generation on mobile hardware |
-| **Performance** | ✅ | 4-bit quantization maintains quality while reducing size |
-| **Production Ready** | ✅ | Complete error handling and user experience |
+| **Integration** | Complete | Working fllama + SmolLM2-360M integration |
+| **Real-time Inference** | Complete | Streaming token generation on mobile hardware |
+| **Performance** | Complete | 4-bit quantization maintains quality while reducing size |
+| **Production Ready** | Complete | Complete error handling and user experience |
 
 </div>  
 
@@ -288,6 +288,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Research Project by Lakshman Turlapati**  
 *Exploring the frontier of on-device artificial intelligence in mobile applications*
 
-**Contact**: [Your Contact Information]  
-**Institution**: [Your Institution/Organization]  
+**Contact**: lakshman.turlapati@utdallas.edu  
+**Institution**: University of Texas at Dallas  
 **Date**: August 2025
