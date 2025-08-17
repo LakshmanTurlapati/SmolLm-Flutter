@@ -45,11 +45,6 @@ graph TB
         E --> G[Metal GPU<br/>iOS Acceleration]
         E --> H[CPU Inference<br/>ARM64 Optimization]
     end
-    
-    style A fill:#e1f5fe
-    style F fill:#fff3e0
-    style G fill:#f3e5f5
-    style H fill:#f3e5f5
 ```
 
 ## Technical Specifications
@@ -143,10 +138,10 @@ xcode-select --install
 ### Live Demo
 
 <div align="center">
-  <a href="https://youtu.be/uYtQDjZNp_Y" target="_blank">
-    <img src="https://img.youtube.com/vi/uYtQDjZNp_Y/maxresdefault.jpg" alt="SmolLM Flutter Demo - On-device AI Chat" width="500">
+  <a href="https://youtu.be/9IY9STJCExo" target="_blank">
+    <img src="https://img.youtube.com/vi/9IY9STJCExo/maxresdefault.jpg" alt="SmolLM Flutter Demo - On-device AI Chat" width="500">
   </a>
-  <p><em>🎥 <strong><a href="https://youtu.be/uYtQDjZNp_Y">Watch Demo</a></strong> - Real-time demonstration of on-device SmolLM2-360M inference with streaming responses</em></p>
+  <p><em>🎥 <strong><a href="https://youtu.be/9IY9STJCExo">Watch Demo</a></strong> - Real-time demonstration of on-device SmolLM2-360M inference with streaming responses</em></p>
 </div>
 
 ### First Launch Behavior
