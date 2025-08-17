@@ -174,20 +174,7 @@ sequenceDiagram
 - **Error Handling**: Network and model failure recovery
 - **Loading States**: Download progress and initialization feedback
 
-## Research Findings
 
-### Key Achievements
-
-<div align="center">
-
-| Achievement | Status | Details |
-|-------------|---------|---------|
-| **Integration** | Complete | Working fllama + SmolLM2-360M integration |
-| **Real-time Inference** | Complete | Streaming token generation on mobile hardware |
-| **Performance** | Complete | 4-bit quantization maintains quality while reducing size |
-| **Production Ready** | Complete | Complete error handling and user experience |
-
-</div>  
 
 ### Technical Challenges Resolved
 
@@ -287,7 +274,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Research Project by Lakshman Turlapati**  
 *Exploring the frontier of on-device artificial intelligence in mobile applications*
-
-**Contact**: lakshman.turlapati@utdallas.edu  
-**Institution**: University of Texas at Dallas  
-**Date**: August 2025
